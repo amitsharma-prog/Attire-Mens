@@ -55,6 +55,9 @@ svg.svg-inline--fa.fa-bars.fa-w-14 {
 .attire-menu{
 	list-style: none;
 }
+.attire-menu {
+    overflow-y: scroll;
+}
 .attire-menu li { list-style: none; }
 .nav-menuss{
     padding: 10px;
