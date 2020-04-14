@@ -10,7 +10,9 @@
   font-family: futura;
   src: url(../fonts/FuturaLT-Book.ttf);
 }
-
+div#attire-here {
+    padding-top: 155px;
+}
 
 .logo { display: none; }
 svg.svg-inline--fa.fa-bars.fa-w-14 {
@@ -54,9 +56,6 @@ svg.svg-inline--fa.fa-bars.fa-w-14 {
 }
 .attire-menu{
 	list-style: none;
-}
-.attire-menu {
-    overflow-y: scroll;
 }
 .attire-menu li { list-style: none; }
 .nav-menuss{

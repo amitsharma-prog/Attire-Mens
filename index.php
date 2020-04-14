@@ -38,7 +38,7 @@
 			<h1>Premium Bespoke Menswear</h1>
 		</div>
 		<div class="attire-our-b">
-			<div class="col-sm-12 col-md-12 col-lg-6">
+			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="attire-our-bimage">
 					 <div class="brand-image">
 					 	<img src="images/attire-brind.JPG" width="100%;">
@@ -50,7 +50,7 @@
 					 </div>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6">
+			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="attire-our-b-content">
 					<p class="our-attire">
 						We bring the luxury of bespoke menswear clothing to your doorstep. Attire Men's Bespoke is for men who have a penchant for style and custom-tailored clothing.
@@ -64,14 +64,14 @@
 <section class="container">
 	<div class="container-fluid">
 		<div class="attire-our-b">
-			<div class="col-sm-12 col-md-12 col-lg-6">
+			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="attire-our-b-content1">
 					<p class="our-attire" id="our-attire">
 						The most crucial part of a design process is fabric selection. We source fabrics from some of the best mills in India and abroad.  
 					</p>
 				</div>
 			</div>
-			<div class="col-sm-12 col-md-12 col-lg-6">
+			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="attire-our-bimage">
 
 					<div class="attire-b-content1">

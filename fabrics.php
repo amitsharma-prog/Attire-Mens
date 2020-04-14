@@ -8,19 +8,18 @@
 <body>
 <?php include 'include/menubar.php'; ?>
 <?php include 'include/attire_social.php'; ?>
-<section class="container" id="containerWidth">
+<!-- <section class="container" id="containerWidth">
 	<div class="container-fluid" id="containerWidth">
 		<div class="attire-stiky-image-fabrics">
-			<!-- <img src="images/ak.JPG" width="100%;"> -->
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section class="attire-h">
 	<div class="container">
 		<div class="container-fluid">
 			<div class="attire-heading1">
-				<div class="attire-heading" style="margin-top: 80px;"><h1>International Fabrics</h1></div>
+				<div class="attire-heading" id="attire-here"><h1>International Fabrics</h1></div>
 			</div>
 		</div>
 	</div>
@@ -56,7 +55,7 @@
 
 		<div class="row">
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
-				<img src="images/fabric3.jpg" width="100%;">
+				<img src="images/fabric3.JPG" width="100%;">
 			</div>
 
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
@@ -64,7 +63,7 @@
 			</div>
 
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/fabric5.jpg" width="100%;">
+				<img src="images/fabric5.JPG" width="100%;">
 			</div>
 		</div>
 	</div>

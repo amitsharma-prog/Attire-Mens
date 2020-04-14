@@ -8,19 +8,18 @@
 <body>
 <?php include 'include/menubar.php'; ?>
 <?php include 'include/attire_social.php'; ?>
-<section class="container" id="containerWidth">
+<!-- <section class="container" id="containerWidth">
 	<div class="container-fluid" id="containerWidth">
 		<div class="attire-stiky-image-uniform">
-			<!-- <img src="images/ak.JPG" width="100%;"> -->
 		</div>
 	</div>
 </section>
-
+ -->
 <section class="attire-h">
 	<div class="container">
 		<div class="container-fluid">
 			<div class="attire-heading1">
-				<div class="attire-heading" style="margin-top: 80px;"><h1>Corporate Uniform</h1></div>
+				<div class="attire-heading" id="attire-here"><h1>Corporate Uniform</h1></div>
 			</div>
 		</div>
 	</div>
