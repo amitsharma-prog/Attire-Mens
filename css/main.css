@@ -1,0 +1,585 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    user-select: none;
+    -webkit-user-drag: none;
+
+}
+@font-face {
+  font-family: futura;
+  src: url(../fonts/FuturaLT-Book.ttf);
+}
+
+
+.logo { display: none; }
+svg.svg-inline--fa.fa-bars.fa-w-14 {
+    font-size: 30px!important;
+}
+.fa-bars {
+	cursor: pointer;
+}
+.bar {
+	height: 100px;
+    line-height: 110px;
+    display: none;
+}
+.attire-stp {
+	display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.attire-stp .logo {
+    width: 7%;
+}
+.attire-strip {
+    height: 100px;
+
+}
+.attire-menu {
+    width: 100%;
+    height: 100%;
+}
+.nav-menu {
+	padding: 10px;
+	text-align: center;
+
+}
+.attire-navbar {
+    position: fixed;
+    top: 0;
+    left: 0px;
+    width: 100%;
+    background-color: #fff;
+}
+.attire-menu{
+	list-style: none;
+}
+.attire-menu li { list-style: none; }
+.nav-menuss{
+    padding: 10px;
+}
+.nav-menus {
+    padding: 5px 10px;
+}
+
+ul li a:hover {
+    color: #000;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+.nav-menuss li ul {
+    position: absolute;
+    background: #fff;
+    top: 100px;
+    display: block;
+    overflow: hidden;
+    height: 0px;
+    padding: 0px 10px 0px 10px;
+    box-shadow: 0px 8px 8px 0px rgba(0,0,0,.2);
+    
+}
+.nav-menuss {
+    padding: 35px 10px;
+}
+.nav-menuss:hover li ul {
+    /*display: block;*/
+    transition: all 0.5s;
+    height: 130px;
+}
+.nav-menu li ul li {
+    text-align: left;
+}
+
+ul li a {
+	color: #000;
+	font-size: 20px;
+    font-family: 'futura';
+    transition: all 0.5s;
+}
+
+.heading1 h1, .textrotate{
+    font-family: 'futura';
+    font-weight: bold;
+}
+.our-attire {
+    font-family: 'futura';
+    text-align: -webkit-right;
+}
+.attire-menu ul {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.attire-fc {
+    padding: 115px 31%;
+}
+
+.attire-fc1 {
+    padding: 70px 10%;
+}
+p.text-center {
+    font-size: 18px;
+}
+.attire-fcbg {
+    background-color: #f7f7f7;
+}
+.activeBar {
+    cursor: pointer;
+}
+svg.svg-inline--fa.fa-times.fa-w-11.activeBar {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    font-size: 30px;
+}
+
+.attire-our-bimage {
+    display: flex;
+    position: relative;
+}
+
+/*h1.textrotate {
+    width: 190px;
+    transform: rotate(270deg);
+    margin: 0;
+}*/
+.attire-b-content {
+    width: 405px;
+    height: 190px;
+    transform: rotate(270deg);
+    margin: 0;
+}
+hr.hrheight {
+    position: relative;
+    right: 135px;
+    border: none;
+    height: 2px;
+    top: -28px;
+    background: darkgrey;
+    width: 100px;
+}
+.brand-image {
+    width: 70%;
+}
+span.cercle {
+    width: 8px;
+    height: 8px;
+    background: black;
+    display: block;
+    border-radius: 15px;
+    position: absolute;
+    top: 25px;
+    left: -200px;
+}
+span.cercle2 {
+    width: 25px;
+    height: 25px;
+    background: #ffffff00;
+    display: block;
+    border: 2px solid;
+    border-radius: 20px;
+    position: absolute;
+    top: -9px;
+    left: -8px;
+    outline: none;
+    opacity: 0;
+    transition: 0.3s;
+}
+span.cercle:hover span.cercle2 {
+    opacity: 1;
+}
+.attire-b-content {
+    width: 387px;
+    height: 55px;
+    transform: rotate(270deg);
+    margin: 0;
+    position: absolute;
+    right: -71px;
+    top: 70px;
+}
+.heading1.text-center {
+    padding: 130px 0px;
+}
+.attire-stiky-custom-ceremonials-image {
+    background-image: url(../images/Ceremonials_background.jpg);
+    background-repeat: no-repeat;
+    height: 650px;
+    background-position-x: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.attire-stiky-custom-image {
+    background-image: url(../images/CostomTailoring_background.jpg);
+    background-repeat: no-repeat;
+    height: 650px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.attire-stiky-image {
+    background-image: url(../images/1.JPG);
+    background-repeat: no-repeat;
+    height: 650px;
+    background-position-x: center;
+}
+.attire-stiky-image1 {
+    background-image: url(../images/ak2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+.attire-stiky-image2 {
+    background-image: url(../images/ak1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+.attire-stiky-image3 {
+    background-image: url(../images/ak3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+.attire-stiky-jacket{
+    background-image: url(../images/jawahar_jeckets_background.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+.attire-stiky-breast{
+    background-image: url(../images/double_breast_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+.attire-stiky-tuxedos{
+    background-image: url(../images/tuxedos_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+.attire-stiky-image-uniform {
+    background-image: url(../images/corporate_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+.attire-stiky-image-fabrics {
+    background-image: url(../images/fabrics_background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+.attire-stiky-image4 {
+    background-image: url(../images/business-backgroud.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+.attire-stiky-image5 {
+    background-image: url(../images/2.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+#custom_border img {
+    border: 1px solid;
+}
+.attire-stiky-image6 {
+    background-image: url(../images/achkanBackground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    background-attachment: fixed;
+}
+.attire-strip-fixed {
+    background: white;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    box-shadow: 1px 0px 8px 0px rgba(0,0,0,.2);
+}
+.attire-our-b {
+    display: flex;
+    position: relative;
+    padding: 50px 0;
+}
+.attire-our-b-content {
+    padding-right: 165px;
+    position: absolute;
+    bottom: 100px;
+}
+
+.brand-image1 {
+    width: 70%;
+    float: right;
+    position: relative;
+    right: -170px;
+}
+.attire-b-content1 {
+    width: 387px;
+    height: 55px;
+    transform: rotate(270deg);
+    margin: 0;
+    position: absolute;
+    left: -75px;
+    top: 80px;
+}
+hr.hrheight1 {
+    position: relative;
+    right: 118px;
+    border: none;
+    height: 2px;
+    top: -40px;
+    background: darkgrey;
+    width: 100px;
+}
+.attire-our-b-content1 {
+    padding-left: 265px;
+    position: absolute;
+    bottom: 100px;
+}
+.attire-heading {
+    text-align: center;
+    padding: 45px 0px;
+}
+section.attire-images-container {
+    margin: 80px 0px;
+}
+.attire-row-images {
+    margin: 10px 0px;
+}
+.attire-heading h1 {
+    font-family: 'futura';
+}
+
+
+/*djfdjesdfkjdkgsjdgaalgjsgifnnvnvdkfkfdjgsd*/
+.attire-testimonails h1 {
+    color: #333;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    position: relative;
+    margin: 30px 0 60px;
+}
+.col-center {
+    margin: 0 auto;
+    float: none !important;
+}
+.carousel {
+    margin: 50px auto;
+    padding: 0 70px;
+}
+.carousel .item {
+    color: #999;
+    font-size: 14px;
+    text-align: center;
+    overflow: hidden;
+    min-height: 290px;
+}
+.carousel .item .img-box {
+    width: 135px;
+    height: 135px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+}
+.carousel .img-box img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 50%;
+}
+.carousel .testimonial {
+    padding: 30px 0 10px;
+}
+.carousel .overview {   
+    font-style: italic;
+    font-size: 16px;
+    color: #000;
+}
+.carousel .overview b {
+    text-transform: uppercase;
+    font-style: normal;
+    color: #000;
+    font-family: futura;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
+.carousel .carousel-control {
+    width: 40px;
+    height: 40px;
+    margin-top: -20px;
+    top: 50%;
+    background: none;
+    color: #000;
+    border: 1px solid;
+    border-radius: 50%;
+}
+.carousel-control i {
+    font-size: 68px;
+    line-height: 42px;
+    position: absolute;
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.8);
+    text-shadow: 0 3px 3px #e6e6e6, 0 0 0 #000;
+}
+.carousel .carousel-indicators {
+    bottom: 0px;
+}
+.carousel-indicators li, .carousel-indicators li.active {
+    width: 10px;
+    height: 10px;
+    margin: 1px 3px;
+    border-radius: 50%;
+}
+.carousel-indicators {
+    left: 0;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.carousel-indicators li {   
+    background: #999;
+    border-color: transparent;
+    box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+.carousel-indicators li.active {    
+    background: #555;       
+    box-shadow: inset 0 2px 1px rgba(0,0,0,0.2);
+}
+
+section.footer {
+    background-color: #bebfbf;
+}
+.attire-copyright p {
+    margin: 0px;
+    padding: 15px;
+    font-family: futura;
+}
+.underline::after {
+    content: "";
+    width: 200px;
+    height: 1.5px;
+    background: #000;
+    position: absolute;
+    top: 55px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+/*Social css codding*/
+.attire-social {
+    position: fixed;
+    top: 50%;
+    left: 0;
+    width: 6%;
+}
+.attire-social-icon {
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 19px;
+}
+
+section.contact-h {
+    padding-top: 160px;
+    text-align: center;
+    padding-bottom: 30px;
+    font-family: futura;
+}
+form.form-control {
+    width: 50%;
+    margin: 0 auto;
+    height: 420px;
+    border: none;
+    outline: none;
+}
+.form-inputs {
+    width: 100%;
+    box-sizing: border-box;
+}
+input.inputs {
+    width: 47%;
+    padding: 10px 15px;
+    float: left;
+    margin: 10px 8px;
+    border: none;
+    border-bottom: 1px solid;
+    background: no-repeat;
+}
+input.inputs,
+.textarea {
+    width: 47%;
+    padding: 10px 15px;
+    float: left;
+    margin: 10px 8px;
+    border: none;
+    border-bottom: 1px solid;
+    background: none;
+    outline: none;
+
+}
+input.inputs::placeholder,
+.textarea::placeholder {
+    font-family: futura;
+    color: #000;
+}
+.textarea {
+    width: 100%;
+    outline: none;
+    resize: none;
+    height: 130px;
+}
+.submit-botton {
+    width: 100%;
+    clear: both;
+    padding-top: 17px;
+    text-align: center;
+}
+input.submit {
+    padding: 3px 50px;
+    background: none;
+    border: 1px solid;
+    font-family: futura;
+    font-weight: bold;
+    cursor: pointer;
+}
+.contact-heading h1 {
+    font-size: 32px;
+    font-weight: 900;
+}
+.contact_info {
+    width: 100%;
+    margin-top: 20px;
+}
+span.basic {
+    width: 50%;
+    display: block;
+    float: left;
+    text-align: center;
+}
+span.basic a {
+    color: #000;
+    font-family: futura;
+}
+
