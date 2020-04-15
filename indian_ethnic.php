@@ -38,7 +38,10 @@
 </section>
 
 <section class="attire-images-container">
-	<div class="container">
+	<div class="container" id="border-bottom">
+		<div class="text-center category">
+			<h2>Traditional Kurta</h2>
+		</div>
 		<div class="row">
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
 				<img src="images/indian-ethnic.jpg" width="100%;">
@@ -52,6 +55,29 @@
 				<img src="images/indian-ethnic2.jpg" width="100%;">
 			</div> -->
 		</div>
+		<button class="text-center btn btn-primary"><a href="#">View More</a></button>
+	</div>
+</section>
+
+<section class="attire-images-container">
+	<div class="container" id="border-bottom">
+		<div class="text-center category">
+			<h2>Jawahar Jacket</h2>
+		</div>
+		<div class="row">
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
+				<img src="images/jawahar_jeckets.JPG" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/jawahar_jeckets1.JPG" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/jawahar_jeckets2.JPG" width="100%;">
+			</div>
+		</div>
+		<button class="text-center btn btn-primary"><a href="jawahar_jackets.php">View More</a></button>
 	</div>
 </section>
 <!-- Include Script CDN Links, Files and Jquery function and footer area -->

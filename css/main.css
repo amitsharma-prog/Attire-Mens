@@ -13,6 +13,28 @@
 div#attire-here {
     padding-top: 155px;
 }
+.category {
+    text-align: center!important;
+    margin-bottom: 80px;
+    text-decoration: underline;
+    font-family: futura;
+}
+button.text-center.btn.btn-primary {
+    margin: 0 auto;
+    margin-top: 10px;
+    display: flex;
+    margin-bottom: 20px;
+
+}
+button.text-center.btn.btn-primary a {
+    color: #fff;
+    font-family: futura;
+    text-decoration: none;
+}
+#border-bottom {
+    border-bottom: 1px solid #dadada;
+}
+
 
 .logo { display: none; }
 svg.svg-inline--fa.fa-bars.fa-w-14 {
