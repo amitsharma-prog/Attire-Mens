@@ -29,8 +29,8 @@
 	<div class="container">
 		<div class="container-fluid">
 			<div class="attire-fc1">
-				<p class="text-center" style="font-family: 'futura'">
-					Traditional Indian men's clothing is often associated with the culture and heritage of India therefore; the Indian clothing is often flaunted at such culturally rich functions and occasions. As per the latest fashion trends in male ethnic wear, designers are introducing a lot of texture, weaves and drapes in the clothing line adding a touch of sophistication while keeping it simple. Overtly embellished and extreme detailing is what is not preferred by modern men. Besides the classic sherwani and kurta pajama, Today men are also embracing the trending Indo-western suits and the variety of innovations done in the age-old kurta churidar for men. Designer menswear collection at is Attire Men is one of the bestselling categories . But if you’re looking for the trending selection of weeding sherwani you should look nowhere beyond Nihal Fashions. Promising premium quality and variety, the store offer the best sherwanis as per the latest ethnic wear trend in menswear 
+				<p class="text-center" style="font-family: 'futura';  font-size: 20px;">
+					Traditional Kurta
 				</p>
 			</div>
 		</div>
@@ -38,10 +38,7 @@
 </section>
 
 <section class="attire-images-container">
-	<div class="container" id="border-bottom">
-		<div class="text-center category">
-			<h2>Traditional Kurta</h2>
-		</div>
+	<div class="container">
 		<div class="row">
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
 				<img src="images/indian-ethnic.jpg" width="100%;">
@@ -50,34 +47,11 @@
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
 				<img src="images/indian-ethnic1.jpg" width="100%;">
 			</div>
-
-			<!-- <div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+<!-- 
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
 				<img src="images/indian-ethnic2.jpg" width="100%;">
 			</div> -->
 		</div>
-		<button class="text-center btn btn-primary"><a href="#">View More</a></button>
-	</div>
-</section>
-
-<section class="attire-images-container">
-	<div class="container" id="border-bottom">
-		<div class="text-center category">
-			<h2>Jawahar Jacket</h2>
-		</div>
-		<div class="row">
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
-				<img src="images/jawahar_jeckets.JPG" width="100%;">
-			</div>
-
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/jawahar_jeckets1.JPG" width="100%;">
-			</div>
-
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/jawahar_jeckets2.JPG" width="100%;">
-			</div>
-		</div>
-		<button class="text-center btn btn-primary"><a href="jawahar_jackets.php">View More</a></button>
 	</div>
 </section>
 <!-- Include Script CDN Links, Files and Jquery function and footer area -->

@@ -38,7 +38,7 @@
 </section>
 
 <section class="attire-images-container">
-	<div class="container" id="border-bottom">
+	<div class="container">
 		<div class="text-center category">
 			<h2>Designer Suits</h2>
 		</div>
@@ -54,76 +54,17 @@
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
 				<img src="images/suits2.PNG" width="100%;">
 			</div>
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/suits3.JPG" width="100%;">
+			</div>
+			
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/suits4.jpg" width="100%;">
+			</div>
 		</div>
-		<button class="text-center btn btn-primary"><a href="designer_suites.php">View More</a></button>
 	</div>
 </section>
 
-<section class="attire-images-container">
-	<div class="container" id="border-bottom">
-		<div class="text-center category">
-			<h2>Tuxedos</h2>
-		</div>
-		<div class="row">
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
-				<img src="images/tuxedos.JPG" width="100%;">
-			</div>
-
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/tuxedos1.JPG" width="100%;">
-			</div>
-
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/tuxedos3.JPG" width="100%;">
-			</div>
-		</div>
-		<button class="text-center btn btn-primary"><a href="tuxedos.php">View More</a></button>
-	</div>
-</section>
-
-<section class="attire-images-container">
-	<div class="container" id="border-bottom">
-		<div class="text-center category">
-			<h2>Double Breast</h2>
-		</div>
-		<div class="row">
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
-				<img src="images/double_breast.JPG" width="100%;">
-			</div>
-
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/double_breast1.PNG" width="100%;">
-			</div>
-
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/double_breast2.jpg" width="100%;">
-			</div>
-		</div>
-		<button class="text-center btn btn-primary"><a href="double_breast.php">View More</a></button>
-	</div>
-</section>
-
-<section class="attire-images-container">
-	<div class="container" id="border-bottom">
-		<div class="text-center category">
-			<h2>Business Suits</h2>
-		</div>
-		<div class="row">
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
-				<img src="images/business-suit.jpg" width="100%;">
-			</div>
-
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/business-suit1.jpg" width="100%;">
-			</div>
-
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/business-suit2.jpg" width="100%;">
-			</div>
-		</div>
-		<button class="text-center btn btn-primary"><a href="business_suit.php">View More</a></button>
-	</div>
-</section>
 <!-- Include Script CDN Links, Files and Jquery function and footer area -->
 <?php include 'include/script_function.php'; ?>
 </body>
