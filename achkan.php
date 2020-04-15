@@ -45,11 +45,11 @@
 			</div>
 
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/achkan1.JPG" width="100%;">
+				<img src="images/achkan1.jpg" width="100%;">
 			</div>
 
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/achkan2.JPG" width="100%;">
+				<img src="images/achkan2.jpg" width="100%;">
 			</div>
 		</div>
 	</div>
