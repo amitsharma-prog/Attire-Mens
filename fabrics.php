@@ -41,7 +41,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
-				<img src="images/fabric.jpg" width="100%;">
+				<img src="images/fabrics.jpg" width="100%;">
 			</div>
 
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">

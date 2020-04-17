@@ -41,15 +41,29 @@
 	<div class="container">
 		<div class="row">
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
-				<img src="images/business-suit.jpg" width="100%;">
+				<img src="images/BusinessSuitsN.jpg" width="100%;">
 			</div>
 
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/business-suit1.jpg" width="100%;">
+				<img src="images/BusinessSuitsN1.jpg" width="100%;">
 			</div>
 
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/business-suit2.jpg" width="100%;">
+				<img src="images/BusinessSuitsN2.jpg" width="100%;">
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
+				<img src="images/business-suit3.jpg" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/business-suit4.jpg" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/business-suit5.jpg" width="100%;">
 			</div>
 		</div>
 	</div>

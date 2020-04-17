@@ -13,6 +13,9 @@
 div#attire-here {
     padding-top: 155px;
 }
+.attire_video {
+    margin-bottom: 20px;
+}
 .category {
     text-align: center!important;
     margin-bottom: 80px;
@@ -104,6 +107,19 @@ ul li a:hover {
     box-shadow: 0px 8px 8px 0px rgba(0,0,0,.2);
     
 }
+.nav-menuss li #height {
+    position: absolute;
+    background: #fff;
+    top: 100px;
+    display: block;
+    overflow: hidden;
+    height: 0px;
+    padding: 0px 10px 0px 10px;
+    box-shadow: 0px 8px 8px 0px rgba(0,0,0,.2);
+    
+}
+
+
 .nav-menuss {
     padding: 35px 10px;
 }
@@ -112,6 +128,12 @@ ul li a:hover {
     transition: all 0.5s;
     height: 130px;
 }
+.nav-menuss:hover li #height {
+    /*display: block;*/
+    transition: all 0.5s;
+    height: 170px;
+}
+
 .nav-menu li ul li {
     text-align: left;
 }
@@ -138,15 +160,20 @@ ul li a {
     align-items: center;
     height: 100%;
 }
+#box-height {
+    height: 170px!important;
+}
+
 .attire-fc {
     padding: 115px 31%;
 }
 
 .attire-fc1 {
-    padding: 70px 10%;
+    padding: 20px 0%;
 }
 p.text-center {
     font-size: 18px;
+    margin: 0;
 }
 .attire-fcbg {
     background-color: #f7f7f7;
@@ -382,8 +409,13 @@ hr.hrheight1 {
     text-align: center;
     padding: 45px 0px;
 }
+
+.ethnic-headings {
+    margin-bottom: 45px;
+}
+
 section.attire-images-container {
-    margin: 80px 0px;
+    margin: 40px 0px;
 }
 .attire-row-images {
     margin: 10px 0px;
@@ -534,7 +566,7 @@ section.contact-h {
 form.form-control {
     width: 50%;
     margin: 0 auto;
-    height: 420px;
+    height: 540px;
     border: none;
     outline: none;
 }

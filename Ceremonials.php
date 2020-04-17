@@ -8,19 +8,18 @@
 <body>
 <?php include 'include/menubar.php'; ?>
 <?php include 'include/attire_social.php'; ?>
-<section class="container" id="containerWidth">
+<!-- <section class="container" id="containerWidth">
 	<div class="container-fluid" id="containerWidth">
 		<div class="attire-stiky-custom-ceremonials-image">
-			<!-- <img src="images/ak.JPG" width="100%;"> -->
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section class="attire-h">
 	<div class="container">
 		<div class="container-fluid">
 			<div class="attire-heading1">
-				<div class="attire-heading"><h1>Ceremonial Wear</h1></div>
+				<div class="attire-heading" id="attire-here"><h1>Ceremonial Wear</h1></div>
 			</div>
 		</div>
 	</div>
@@ -29,17 +28,73 @@
 <section class="attire-fcbg">
 	<div class="container">
 		<div class="container-fluid">
-			<div class="attire-fc1">
+			<div class="attire-fc1 text-center">
+				<h3 style="text-decoration: underline; font-family: futura;">Jodhpuri Suits</h3>
 				<p class="text-center" style="font-family: 'futura'">
-				    <srong style="padding: 10px 0px;"><b>Sherwani</b></srong><br>
-					Sherwani  is undoubtedly the most popular choice of Indian wedding attire.
+					Bandhgalas - Legacy of Rajputanas which takes us back to the humble origins in the royal courts of Jodhpur.
 				</p>
-				<p class="text-center" style="font-family: 'futura'">
-				    <srong style="padding: 10px 0px;"><b>Achkan</b></srong><br>
-					A royal clothing inspired by the fascinating stories of the Mughals and nobles of ancient times.
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="attire-images-container">
+	<div class="container">
+		<div class="row">
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
+				<img src="images/Jsuit4.JPG" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/JsuitN.jpg" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/Jsuit6.JPG" width="100%;">
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="attire-fcbg">
+	<div class="container">
+		<div class="container-fluid">
+			<div class="attire-fc1 text-center">
+				<h3 style="text-decoration: underline; font-family: futura;">Sherwani</h3>
+				<p class="text-center" style="font-family: 'futura'">					
+					Sherwani is undoubtedly the most popular choice of Indian wedding attire.
 				</p>
-				<p class="text-center" style="font-family: 'futura'">
-				    <srong style="padding: 10px 0px;"><b>Indo Western</b></srong><br>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="attire-images-container">
+	<div class="container">
+		<div class="row">
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
+				<img src="images/sherwani.jpg" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/sherwani1.jpg" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/sherwani2.jpg" width="100%;">
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<section class="attire-fcbg">
+	<div class="container">
+		<div class="container-fluid">
+			<div class="attire-fc1 text-center">
+				<h3 style="text-decoration: underline; font-family: futura;">Indo Western</h3>
+				<p class="text-center" style="font-family: 'futura'">					
 					Indo Western oufit for Men are evolved to exhibit the eminent look of a Man.
 				</p>
 			</div>
@@ -51,29 +106,52 @@
 	<div class="container">
 		<div class="row">
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
-				<img src="images/ceremonials.JPG" width="100%;">
+				<img src="images/Indo-western.jpg" width="100%;">
 			</div>
 
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/ceremonials1.JPG" width="100%;">
+				<img src="images/Indo-western2.jpg" width="100%;">
 			</div>
 
 			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/ceremonials2.PNG" width="100%;">
-			</div>
-		</div>
-
-		<div class="row">
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
-				<img src="images/ceremonials3.PNG" width="100%;">
-			</div>
-
-			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
-				<img src="images/ceremonials4.JPG" width="100%;">
+				<img src="images/Indo-western1.jpg" width="100%;">
 			</div>
 		</div>
 	</div>
 </section>
+
+
+<section class="attire-fcbg">
+	<div class="container">
+		<div class="container-fluid">
+			<div class="attire-fc1 text-center">
+				<h3 style="text-decoration: underline; font-family: futura;">Achkan</h3>
+				<p class="text-center" style="font-family: 'futura'">					
+					A royal clothing inspired by the fascinating stories of the Mughals and nobles of ancient times.
+				</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="attire-images-container">
+	<div class="container">
+		<div class="row">
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
+				<img src="images/AchkanN2.jpg" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/AchkanN1.jpg" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/AchkanN.jpg" width="100%;">
+			</div>
+		</div>
+	</div>
+</section>
+
 <!-- Include Script CDN Links, Files and Jquery function and footer area -->
 <?php include 'include/script_function.php'; ?>
 </body>

@@ -18,6 +18,14 @@
 	</div>
 </section>
 
+<section class="container">
+	<div class="attire_video">
+		<video style="width: 100%; border: 1px solid;" controls="" >
+			<source src="video/ATTIRE2.MP4" type="video/mp4">
+		</video>
+	</div>
+</section>
+
 <section class="attire-fcbg">
 	<div class="container">
 		<div class="container-fluid">
@@ -43,11 +51,11 @@
 					 <div class="brand-image">
 					 	<img src="images/attire-brind.JPG" width="100%;">
 					 </div>
-					 <div class="attire-b-content">
+					 <!-- <div class="attire-b-content">
 					 	<h1 class="textrotate">Our Brand</h1>
 					 	<hr class="hrheight">
 					 	<span class="cercle"><span class="cercle2"></span></span>
-					 </div>
+					 </div> -->
 				</div>
 			</div>
 			<div class="col-sm-12 col-md-6 col-lg-6">
@@ -74,11 +82,11 @@
 			<div class="col-sm-12 col-md-6 col-lg-6">
 				<div class="attire-our-bimage">
 
-					<div class="attire-b-content1">
+					<!-- <div class="attire-b-content1">
 					 	<h1 class="textrotate">Our Clothing</h1>
 					 	<hr class="hrheight1">
 					 	<span class="cercle"><span class="cercle2"></span></span>
-					 </div>
+					 </div> -->
 					 <div class="brand-image1">
 					 	<img src="images/fabric.jpg" width="100%;">
 					 </div>
