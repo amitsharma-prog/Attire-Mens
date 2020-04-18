@@ -44,7 +44,7 @@
 				<div class="nav-menuss">
 					<li><a href="suits.php">Suits<span><i class="fas fa-caret-down"></i></span></a>
 
-						<ul id="height">
+						<ul>
 							<div class="dropdown" id="dropdown">
 								<div class="nav-menus">
 									<li><a href="business_suit.php">Business Suits</a></li>
@@ -55,9 +55,9 @@
 								<div class="nav-menus">
 									<li><a href="double_breast.php">Double Breast</a></li>
 								</div>
-								<div class="nav-menus">
+								<!-- <div class="nav-menus">
 									<li><a href="jawahar_jackets.php">Jawahar Jackets</a></li>
-								</div>
+								</div> -->
 							</div>
 						</ul>
 

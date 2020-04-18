@@ -89,6 +89,20 @@
 				<img src="images/jawahar_jeckets2.JPG" width="100%;">
 			</div>
 		</div>
+
+		<div class="row">
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12 ">
+				<img src="images/jawahar_jeckets4.jpg" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/jawahar_jeckets7.JPG" width="100%;">
+			</div>
+
+			<div class="attire-row-images col-md-4 col-lg-4 col-sm-12">
+				<img src="images/jawahar_jeckets6.JPG" width="100%;">
+			</div>
+		</div>
 	</div>
 </section>
 <!-- Include Script CDN Links, Files and Jquery function and footer area -->
