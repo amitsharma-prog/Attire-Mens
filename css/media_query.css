@@ -180,6 +180,10 @@
 }
 @media only screen and (min-width: 761px) and (max-width: 780px) {
 	.logocontainer { width: 14%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 781px) and (max-width: 800px) {
 	.logocontainer { width: 15%!important; }
