@@ -40,7 +40,7 @@
 					<div class="contact_info">
 						<div class="basic-info">
 							<span class="basic"><b>Tel:</b><a href="tel:0124 4303193">&nbsp;&nbsp;0124 4303193</a></span>
-							<span class="basic"><b>Email: </b><a href="mailTo:info@attiremensbespoke.com">info@attiremensbespoke.com</a></span>
+							<span class="basic"><b>Email: </b><a href="mailTo:gandhirrcc@gmail.com">gandhirrcc@gmail.com</a></span>
 
 							<span class="basic"><b>Mobile:</b><a href="tel:9868958363">&nbsp;&nbsp;(91)9868958363</a></span>
 							<span class="basic"><b>Address: </b><a href="mailTo:info@attiremensbespoke.com">UG-1, Ansal Plaza Mall, Palam Vihar, Gurgaon-122017 (Haryana)</a></span>

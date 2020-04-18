@@ -24,7 +24,7 @@ function sendMailToMe() {
 
     //Recipients
     $mail->setFrom('info@attiremensbespoke.com', 'Attire Mens Bespoke');
-    $mail->addAddress('amitsharma18543@gmail.com');     // Add a recipient
+    $mail->addAddress('gandhirrcc@gmail.com');     // Add a recipient
     $mail->addReplyTo($_POST['email'], $_POST['name']);
 
     $mail->isHTML(true);                                

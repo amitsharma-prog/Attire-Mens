@@ -49,10 +49,18 @@
 @media only screen and (min-width: 866px) and (max-width: 934px) {
 	/*.attire-social { display: none; }*/
 	.container { max-width: 865px; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 
 @media only screen and (min-width: 935px) and (max-width: 1024px) {
 	.container { max-width: 920px; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 
 @media only screen and (min-width: 1051px) and (max-width: 1094px) {
@@ -187,18 +195,38 @@
 }
 @media only screen and (min-width: 781px) and (max-width: 800px) {
 	.logocontainer { width: 15%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 801px) and (max-width: 820px) {
 	.logocontainer { width: 14%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 821px) and (max-width: 840px) {
 	.logocontainer { width: 14%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 841px) and (max-width: 860px) {
 	.logocontainer { width: 15%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 861px) and (max-width: 880px) {
 	.logocontainer { width: 12%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 881px) and (max-width: 900px) {
 	.logocontainer { width: 12%!important; }
@@ -220,33 +248,73 @@
 }
 @media only screen and (min-width: 1001px) and (max-width: 1024px) {
 	.logocontainer { width: 12%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 1025px) and (max-width: 1040px) {
 	.logocontainer { width: 11%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 1041px) and (max-width: 1060px) {
 	.logocontainer { width: 11%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 1061px) and (max-width: 1080px) {
 	.logocontainer { width: 11%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 1081px) and (max-width: 1100px) {
 	.logocontainer { width: 11%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 1101px) and (max-width: 1120px) {
 	.logocontainer { width: 11%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 1121px) and (max-width: 1140px) {
 	.logocontainer { width: 11%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 1141px) and (max-width: 1160px) {
 	.logocontainer { width: 11%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 1161px) and (max-width: 1180px) {
 	.logocontainer { width: 11%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 @media only screen and (min-width: 1181px) and (max-width: 1200px) {
 	.logocontainer { width: 11%!important; }
+	input.inputs, .textarea { width: 100%; }
+	form.form-control  { width: 80%; height: 723px; }
+	span.basic { padding: 8px 0px; width: 100%; font-size: 20px; }
+	.contact_info { margin-top: 40px; }
 }
 
 
