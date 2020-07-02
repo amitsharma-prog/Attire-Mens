@@ -10,7 +10,12 @@
 }
 @media only screen and (max-width: 576px) {
 	.container { margin: 0; max-width: 100%; }
-	.attire-social { display: none; }
+	.attire-social {
+	    top: 58%;
+	    width: 8%;
+	    background-color: #fff;
+	    z-index: 1;
+	}
 	.attire-stp .logo { width: 18%; }
 	#containerWidth { padding: 0; }
 	.attire-stiky-image,
@@ -30,7 +35,12 @@
 	input.inputs, .textarea { width: 100%; }
 	span.basic { width: 100% }
 	.container { margin: 0; max-width: 100%; }
-	.attire-social { display: none; }
+	.attire-social {
+	    top: 58%;
+	    width: 8%;
+	    background-color: #fff;
+	    z-index: 1;
+	}
 	.attire-stp .logo { width: 18%; }
 	#containerWidth { padding: 0; }
 	.attire-stiky-image,
